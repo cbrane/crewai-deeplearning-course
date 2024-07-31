@@ -4,37 +4,26 @@ This repository contains example Python file implementations of Crews using Crew
 
 ## Table of Contents
 
-1. [Introduction to CrewAI](#introduction-to-crewai)
-2. [Key Concepts](#key-concepts)
-3. [Agent Creation Framework](#agent-creation-framework)
-4. [Key Elements of Agent Tools](#key-elements-of-agent-tools)
-5. [Task Definition](#task-definition)
-6. [Multi-Agent Collaboration](#multi-agent-collaboration)
-7. [Example Implementations](#example-implementations)
+1. [Dependencies](#dependencies)
+2. [Introduction to CrewAI](#introduction-to-crewai)
+3. [Key Concepts](#key-concepts)
+4. [Agent Creation Framework](#agent-creation-framework)
+5. [Key Elements of Agent Tools](#key-elements-of-agent-tools)
+6. [Task Definition](#task-definition)
+7. [Multi-Agent Collaboration](#multi-agent-collaboration)
+8. [Example Implementations](#example-implementations)
    - [Collaboration on Financial Analysis](#collaboration-on-financial-analysis)
    - [Tailoring Job Applications](#tailoring-job-applications)
    - [Automating Event Planning](#automating-event-planning)
    - [Customer Outreach Campaign](#customer-outreach-campaign)
    - [Technical Articles Creation](#technical-articles-creation)
    - [Customer Support Crew](#customer-support-crew)
-8. [Next Steps with AI Agent Systems](#next-steps-with-ai-agent-systems)
-9. [Additional Resources](#additional-resources)
+9. [Next Steps with AI Agent Systems](#next-steps-with-ai-agent-systems)
+10. [Additional Resources](#additional-resources)
 
 ## Dependencies
 
 The core dependencies for these examples are listed in the `requirements.txt` file:
-
-```
-crewai==0.41.1
-crewai-tools==0.4.26
-langchain-community==0.2.10
-```
-
-To install these dependencies, run:
-
-```
-pip install -r requirements.txt
-```
 
 ## Introduction to CrewAI
 
@@ -231,7 +220,7 @@ To further explore and develop AI agent systems, consider the following:
 
 ## Additional Resources
 
-1. CrewAI Documentation: [Link to documentation]
+1. CrewAI Documentation: [\[Link to documentation\]](https://docs.crewai.com/)
 2. CrewAI Custom GPT: A tool for writing CrewAI code and accessing CrewAI documents
 3. Discord Community: Join for support and discussions with other CrewAI users
 4. Research papers on role-playing and agent collaboration
