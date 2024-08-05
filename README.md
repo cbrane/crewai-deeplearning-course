@@ -2,6 +2,8 @@
 
 This repository contains example Python file implementations of Crews using CrewAI, based on the course from DeepLearning.ai. These examples demonstrate how to create and use AI agent crews for various tasks.
 
+It also includes detailed notes from the DeepLearning.ai course on how to successfully build incredible Multi-Agent systems using the CrewAI framework. You can find those below in this README.
+
 ## Table of Contents
 
 1. [Dependencies](#dependencies)
